@@ -106,17 +106,17 @@ Building & Basing Rules
 Party Rules
 
 
-1. Thieves can onlyÂ party with Thieves, Dealers.
+1. Thieves can only party with Thieves, Dealers.
 
 2. Bloods and Crips can only party with their respective members/leaders.
 
-3. Terrorists canÂ only party with terrorists.
+3. Terrorists can only party with terrorists.
 
-4. Government canÂ onlyÂ party with government.
+4. Government can only party with government.
 
-5. Hitmen canÂ onlyÂ party with other Hitmen.
+5. Hitmen can only party with other Hitmen.
 
-6. Citizens and Hobo's mayÂ onlyÂ party with their respective members.
+6. Citizens and Hobo's may only party with their respective members.
 
 7. If you are in a party with someone and only if you see them being attacked or murdered you may retaliate.
 
@@ -192,7 +192,7 @@ Police - SWAT - SWAT Cheif - Police Cheif
 
 6. You may counter without adverting.
 
-7. Civil Protection may break NLRÂ ONLY DURING PD RAIDS.
+7. Civil Protection may break NLR ONLY DURING PD RAIDS.
 
 8. You may not unarrest without permission from Mayor or Warden. If there is no Mayor or Warden, you may unarrest, but you must have a reason.
 
