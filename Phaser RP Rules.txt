@@ -1,0 +1,251 @@
+General Rules
+
+1. Do not RDM
+
+2. Do not NLR (NLR Time Is 2 Minutes)
+
+3. Do not disrespect other members of the community when out-of-character(OOC) this includes the forums, OOC chat, and textscreens.
+
+4. Do not spam via chat or your microphone.
+
+5. DDoS or the publicizing of other member's private information (dox) will result in a permanent ban.
+
+6. Do not propminge (aimlessly throw props around/trap other players)
+
+7. Do not post links on the server/forums (unless associated with Steam Community)
+
+8. Do not abuse exploits/loopholes, report those to staff members, and you may receive a reward!
+
+9. Do not stack/chain adverts (e.g. Raid/Assist or Over/False)
+
+10. Adverts must be coherent
+
+11. Do not impersonate other users.
+
+12. Admin decisions are final.
+
+13. Do not display pornography or otherwise graphic material.
+
+14. Do not demote players if staff are on duty, contact staff if you have an issue.
+
+15. Do not build in the streets (unless your job allows for it).
+
+16. Do not Fading Door Abuse (FDA).
+
+17. Do not RP in spawn (Ex: Raping, Mugging, ect.).
+
+18. Do not use /advert for Non-RP reasons.
+
+19. You may not host deathmatches with another party, unless you are both part of the Fight Club.
+
+20. Do not sit on other players heads to escape RP situations! (FailRP).
+
+21. Do not FearRP.
+
+22. Must advert all Raids, Mugs, Rapes, Terror Attacked, etc.
+
+23. No CDM (Killing with cars) under any circumstances!
+
+
+Building & Basing Rules
+
+
+1. KOS lines only apply to interiors (the insides of a building)
+
+2. Obscure KOS signs, and conditions such as "KOS IF LOITERING" are prohibited.
+
+3. Your base must be raidable by all classes with raiding capabilities - CPs and thieves.
+
+4. If you wish to construct your base without getting raided, you must place down a textscreen reading "Building" onto the exterior.
+
+5. If people enter you base during building phase you must give them 5 seconds after warning them to leave before KOS.
+
+6. You may not possess raidables when building, this includes shipments, printers, and meth.
+
+7. No crouch bases (forcing another user to crouch in order to enter your base)
+
+8. No faulty keypads. (keypads without a role)
+
+9. Do not materialize or hide keypads.
+
+10. All entities are considered props - this includes cameras, textscreens, etc..
+
+11. Keypads must be DIRECTLY beside the prop which they operate.
+
+12. You must own all of the exterior doors to a building in order to build upon it.
+
+13. You may block off excess entrances to your base i.e. windows, backdoors.
+
+14. You may not have more that 4 fading doors operated by keypads per base.
+
+15. Keypads must have a hold length of at least 6 seconds.
+
+16. You may not have a base designed to trap people.
+
+17. Maze bases are not allowed.
+
+18. Blackout bases are not allowed.
+
+19. No invisible props or buttons.
+
+20. You may not no-collide props to act as hidden doors.
+
+21. You must be active within a base which you own the doors for.
+
+20. Do not set up an unfair advantage in a firefight within your base, IE:Where you can see and shoot someone, but they cannot see or shoot back.
+
+21. You may not own multiple buildings unless your job allows for it.
+
+22. You may not build on roofs used for staff situations.
+
+23. You may only kill someone inside your base as long as you have a KOS sign outside, under a given condition.
+
+24. One way props are allowed but you must establish two way line of sight when shooting someone. IE. You must both be able to see each other when shooting each other.
+
+
+Party Rules
+
+
+1. Thieves can onlyÂ party with Thieves, Dealers.
+
+2. Bloods and Crips can only party with their respective members/leaders.
+
+3. Terrorists canÂ only party with terrorists.
+
+4. Government canÂ onlyÂ party with government.
+
+5. Hitmen canÂ onlyÂ party with other Hitmen.
+
+6. Citizens and Hobo's mayÂ onlyÂ party with their respective members.
+
+7. If you are in a party with someone and only if you see them being attacked or murdered you may retaliate.
+
+8. If you kill someone and only if their fellow part member(s) see it you may kill them
+
+
+Raiding Rules
+
+
+1. You may not raid people who have a building textscreen on their base, neither can you raid when having a base build in progress.
+
+2. Raids can last up to 10 minutes
+
+3. If you die defending a base during a raid, REGARDLESS OF NLR ZONE, you may not return to the base until the raiding party has left the base. (Unless your Government then you must wait 2 minuets)
+
+4. There is a 10 minute cooldown if you want to raid the same base once again.
+
+5. You may not build during a raid.
+
+6. You may not lockpick or keypad crack until you have adverted raid.
+
+8. You may not raid hobo huts/structures.
+
+
+Mugging Rules
+
+
+1. You may mug someone for a maximum of $5,000.
+
+2. You must wait 5 minutes between each mug.
+
+3. Your target must be aware they are being mugged.
+
+4. You may not mug players who are AFK or have a building textscreen on their base.
+
+5. You must provide your victim with 10 seconds to drop the cash, you may chase after them if they disobey, and may shoot them when 10 seconds have passed.
+
+Job Rules
+
+Citizen
+1. You may counter illegal activities.
+2. You not perform illegal activities such as mugging or raiding.
+3. You may own money printers and base.
+
+Crips & Bloodz Leader
+1. You may lead your gang in raids and mugs, as well as create a base for you and your gang to store printers in.
+2. You may propose a gang war to the rival gang using /advert Gang War? (Accept/Deny).
+3. You may accept/deny gang war proposals.
+4. You may megabase (DO NOT BUILD IN THE STREET).
+
+Crips & Bloodz Member
+1. You must follow the orders of, and base with, the gang leader. If there is no leader currently on, you must base with other members.
+2. You may perform illegal activities, i.e. raids, mugging, own printers.
+3. Members of the rival gang are only KOS during gang wars.
+
+Police - SWAT - SWAT Cheif - Police Cheif
+1. You may not base, own doors, or build, not even in the PD.
+2. You must enforce the laws of the city.
+3. You may not perform illegal actions.
+4. You may not randomly want or warrant.
+5. You may not Stun Stick Abuse (SSA).
+6. You may counter without adverting.
+7. Civil Protection may break NLRÂ ONLY DURING PD RAIDS.
+8. You may not unarrest without permission from Mayor or Warden. If there is no Mayor or Warden, you may unarrest, but you must have a reason.
+9. You may not arrest someone for having a gun out in their own base, or if they kill someone who broke their KOS rule.
+10. You may only warrant for printers if you SEE printers, you may not if you hear them or think that they have them.
+11. You may not kill arrested players unless they are out of their jail cell without permission from the Mayor or the Warden.
+12. Police Warden may build, but only in the jail of the PD.
+13. Only the Mayor can create the KOS sign for the PD, if there is no mayor, then the Police Chief, if there is no Police Chief or Mayor, you may not have a KOS sign.
+14. You can not be corrupt.
+
+Gun Dealer, Black Market, Drug Dealer, Vape Dealer
+1. You must be available to sell at all times.
+2. You may not deny a customer.
+3. You may not self-supply, unless there is no one else available.
+4. You may own printers as another means of income.
+5. You may not perform illegal activities, i.e. raids, mugging,
+6. You may not base with raiding classes.
+
+Hobo
+1. You may not block off streets.
+
+2. You must base outdoors.
+
+3. You may not perform any illegal activities, such as money printing.
+
+4. You may micspam using only your voice, no media such as videos.
+
+5. You may not own a gun larger than a pistol.
+
+6. Hobos may not have KOS signs.
+
+7. Hobos are immune to lockdowns.
+
+8. You may only build small huts, nothing else. No larger than an 8x8 plate in length in width.
+
+9. You may not build offensive symbols or bases. (Under Consideration)
+
+10. You may not spawn props randomly around the map, they must be part of your hut.
+
+11. You may not create toll booths.
+
+12. You may not build on roofs.
+
+Mayor
+1. You may not perform illegal activities unless the laws specifically dictates so.
+
+2. You may only build inside the PD.
+
+3. If you call a lockdown, you must explain your reason for the lockdown via /broadcast"
+
+4. You may not create laws that clash with default laws.
+
+5. No KOS laws.
+
+6. No J-walking laws.
+
+7. No minge laws.
+
+8. Gun liscenses can cost up to $5,000.
+
+9. You may not make hitmen with "Hit Accepted" above their heads AOS.
+
+10. You may allow certain players permission to enter PD and spend time with you past 2nd door, but they may not enforce your KOS rules.
+
+
+Raiding Classes - Thief - Pro Theif - Master Theif
+1. You may mug and raid.
+
+2. You may own a base and printers.
+
+3. You may counter illegal activities.
