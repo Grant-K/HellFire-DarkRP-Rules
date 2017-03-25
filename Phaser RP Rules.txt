@@ -106,17 +106,17 @@ Building & Basing Rules
 Party Rules
 
 
-1. Thieves can onlyÂ party with Thieves, Dealers.
+1. Thieves can onlyÃ‚ party with Thieves, Dealers.
 
 2. Bloods and Crips can only party with their respective members/leaders.
 
-3. Terrorists canÂ only party with terrorists.
+3. Terrorists canÃ‚ only party with terrorists.
 
-4. Government canÂ onlyÂ party with government.
+4. Government canÃ‚ onlyÃ‚ party with government.
 
-5. Hitmen canÂ onlyÂ party with other Hitmen.
+5. Hitmen canÃ‚ onlyÃ‚ party with other Hitmen.
 
-6. Citizens and Hobo's mayÂ onlyÂ party with their respective members.
+6. Citizens and Hobo's mayÃ‚ onlyÃ‚ party with their respective members.
 
 7. If you are in a party with someone and only if you see them being attacked or murdered you may retaliate.
 
@@ -158,42 +158,67 @@ Job Rules
 
 Citizen
 1. You may counter illegal activities.
+
 2. You not perform illegal activities such as mugging or raiding.
+
 3. You may own money printers and base.
 
 Crips & Bloodz Leader
 1. You may lead your gang in raids and mugs, as well as create a base for you and your gang to store printers in.
+
 2. You may propose a gang war to the rival gang using /advert Gang War? (Accept/Deny).
+
 3. You may accept/deny gang war proposals.
+
 4. You may megabase (DO NOT BUILD IN THE STREET).
 
 Crips & Bloodz Member
 1. You must follow the orders of, and base with, the gang leader. If there is no leader currently on, you must base with other members.
+
 2. You may perform illegal activities, i.e. raids, mugging, own printers.
+
 3. Members of the rival gang are only KOS during gang wars.
 
 Police - SWAT - SWAT Cheif - Police Cheif
 1. You may not base, own doors, or build, not even in the PD.
+
 2. You must enforce the laws of the city.
+
 3. You may not perform illegal actions.
+
 4. You may not randomly want or warrant.
+
 5. You may not Stun Stick Abuse (SSA).
+
 6. You may counter without adverting.
-7. Civil Protection may break NLRÂ ONLY DURING PD RAIDS.
+
+7. Civil Protection may break NLRÃ‚ ONLY DURING PD RAIDS.
+
 8. You may not unarrest without permission from Mayor or Warden. If there is no Mayor or Warden, you may unarrest, but you must have a reason.
+
 9. You may not arrest someone for having a gun out in their own base, or if they kill someone who broke their KOS rule.
+
 10. You may only warrant for printers if you SEE printers, you may not if you hear them or think that they have them.
+
 11. You may not kill arrested players unless they are out of their jail cell without permission from the Mayor or the Warden.
+
 12. Police Warden may build, but only in the jail of the PD.
+
 13. Only the Mayor can create the KOS sign for the PD, if there is no mayor, then the Police Chief, if there is no Police Chief or Mayor, you may not have a KOS sign.
+
 14. You can not be corrupt.
 
 Gun Dealer, Black Market, Drug Dealer, Vape Dealer
 1. You must be available to sell at all times.
+
 2. You may not deny a customer.
+
 3. You may not self-supply, unless there is no one else available.
+
 4. You may own printers as another means of income.
+
 5. You may not perform illegal activities, i.e. raids, mugging,
+
 6. You may not base with raiding classes.
 
 Hobo
