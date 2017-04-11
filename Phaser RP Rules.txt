@@ -2,7 +2,7 @@ General Rules
 
 1. Do not RDM
 
-2. Do not NLR (NLR Time Is 2 Minutes)
+2. Do not break NLR (NLR Time Is 2 Minutes)
 
 3. Do not disrespect other members of the community when out-of-character(OOC) this includes the forums, OOC chat, and textscreens.
 
@@ -60,7 +60,7 @@ Building & Basing Rules
 
 5. If people enter you base during building phase you must give them 5 seconds after warning them to leave before KOS.
 
-6. You may not possess raidables when building, this includes shipments, printers, and meth.
+6. You may not possess raidables when building, this includes shipments, printers, and meth etc.
 
 7. No crouch bases (forcing another user to crouch in order to enter your base)
 
@@ -76,7 +76,7 @@ Building & Basing Rules
 
 13. You may block off excess entrances to your base i.e. windows, backdoors.
 
-14. You may not have more that 4 fading doors operated by keypads per base.
+14. You may not have more that 5 fading doors operated by keypads per base.
 
 15. Keypads must have a hold length of at least 6 seconds.
 
@@ -86,13 +86,13 @@ Building & Basing Rules
 
 18. Blackout bases are not allowed.
 
-19. No invisible props or buttons.
+19. No invisible buttons. and shoot door buttons must be a toggle.
 
 20. You may not no-collide props to act as hidden doors.
 
 21. You must be active within a base which you own the doors for.
 
-20. Do not set up an unfair advantage in a firefight within your base, IE:Where you can see and shoot someone, but they cannot see or shoot back.
+20. No Killboxes.
 
 21. You may not own multiple buildings unless your job allows for it.
 
@@ -100,7 +100,7 @@ Building & Basing Rules
 
 23. You may only kill someone inside your base as long as you have a KOS sign outside, under a given condition.
 
-24. One way props are allowed but you must establish two way line of sight when shooting someone. IE. You must both be able to see each other when shooting each other.
+24. One way props are allowed but you must establish two way line of sight when shooting someone. IE. You must both be able to see each other when shooting each other., but a raider can shoot without it. Also there must be some indication for where the raider can shoot you.
 
 
 Party Rules
@@ -158,119 +158,76 @@ Job Rules
 
 Citizen
 1. You may counter illegal activities.
-
 2. You not perform illegal activities such as mugging or raiding.
-
 3. You may own money printers and base.
 
 Crips & Bloodz Leader
 1. You may lead your gang in raids and mugs, as well as create a base for you and your gang to store printers in.
-
 2. You may propose a gang war to the rival gang using /advert Gang War? (Accept/Deny).
-
 3. You may accept/deny gang war proposals.
-
 4. You may megabase (DO NOT BUILD IN THE STREET).
 
 Crips & Bloodz Member
 1. You must follow the orders of, and base with, the gang leader. If there is no leader currently on, you must base with other members.
-
 2. You may perform illegal activities, i.e. raids, mugging, own printers.
-
 3. Members of the rival gang are only KOS during gang wars.
 
 Police - SWAT - SWAT Cheif - Police Cheif
 1. You may not base, own doors, or build, not even in the PD.
-
 2. You must enforce the laws of the city.
-
 3. You may not perform illegal actions.
-
 4. You may not randomly want or warrant.
-
 5. You may not Stun Stick Abuse (SSA).
-
 6. You may counter without adverting.
-
 7. Civil Protection may break NLR ONLY DURING PD RAIDS.
-
 8. You may not unarrest without permission from Mayor or Warden. If there is no Mayor or Warden, you may unarrest, but you must have a reason.
-
 9. You may not arrest someone for having a gun out in their own base, or if they kill someone who broke their KOS rule.
-
 10. You may only warrant for printers if you SEE printers, you may not if you hear them or think that they have them.
-
 11. You may not kill arrested players unless they are out of their jail cell without permission from the Mayor or the Warden.
-
 12. Police Warden may build, but only in the jail of the PD.
-
 13. Only the Mayor can create the KOS sign for the PD, if there is no mayor, then the Police Chief, if there is no Police Chief or Mayor, you may not have a KOS sign.
-
 14. You can not be corrupt.
 
 Gun Dealer, Black Market, Drug Dealer, Vape Dealer
 1. You must be available to sell at all times.
-
 2. You may not deny a customer.
-
 3. You may not self-supply, unless there is no one else available.
-
 4. You may own printers as another means of income.
-
 5. You may not perform illegal activities, i.e. raids, mugging,
-
 6. You may not base with raiding classes.
 
 Hobo
 1. You may not block off streets.
-
 2. You must base outdoors.
-
 3. You may not perform any illegal activities, such as money printing.
-
 4. You may micspam using only your voice, no media such as videos.
-
 5. You may not own a gun larger than a pistol.
-
 6. Hobos may not have KOS signs.
-
 7. Hobos are immune to lockdowns.
-
 8. You may only build small huts, nothing else. No larger than an 8x8 plate in length in width.
-
 9. You may not build offensive symbols or bases. (Under Consideration)
-
 10. You may not spawn props randomly around the map, they must be part of your hut.
-
 11. You may not create toll booths.
-
 12. You may not build on roofs.
 
 Mayor
 1. You may not perform illegal activities unless the laws specifically dictates so.
-
 2. You may only build inside the PD.
-
 3. If you call a lockdown, you must explain your reason for the lockdown via /broadcast"
-
 4. You may not create laws that clash with default laws.
-
 5. No KOS laws.
-
 6. No J-walking laws.
-
 7. No minge laws.
-
 8. Gun liscenses can cost up to $5,000.
-
 9. You may not make hitmen with "Hit Accepted" above their heads AOS.
-
 10. You may allow certain players permission to enter PD and spend time with you past 2nd door, but they may not enforce your KOS rules.
-
 
 Raiding Classes - Thief - Pro Theif - Master Theif
 1. You may mug and raid.
-
 2. You may own a base and printers.
-
 3. You may counter illegal activities.
+
+
+Clans
+1. If you custom class is made to be a member of a clan there is a minimum one dollar fee to remove it from that clan
+2. Failure to follow clan rules can result in a ban as deemed fit by staff
