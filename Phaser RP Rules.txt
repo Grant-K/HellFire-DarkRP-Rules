@@ -36,27 +36,30 @@ General Rules
 
 18. Do not use /advert for Non-RP reasons.
 
-19. You may not host deathmatches with another party, unless you are both part of the Fight Club.
+19. You may not host deathmatches with another party.
 
 20. Do not sit on other players heads to escape RP situations! (FailRP).
 
-21. Do not FearRP.
+21. Follow FearRp.
 
 22. Must advert all Raids, Mugs, Rapes, Terror Attacked, etc.
 
 23. No CDM (Killing with cars) under any circumstances!
 
+34. No Offensive or Pornographic sprays!
+
+35.Staying in a blown up car if FailRP!
 
 Building & Basing Rules
 
 
-1. KOS lines only apply to interiors (the insides of a building)
+1. KOS lines only apply to the sidewalk and inner of you base.
 
 2. Obscure KOS signs, and conditions such as "KOS IF LOITERING" are prohibited.
 
 3. Your base must be raidable by all classes with raiding capabilities - CPs and thieves.
 
-4. If you wish to construct your base without getting raided, you must place down a textscreen reading "Building" onto the exterior.
+4. If you wish to construct your base without getting raided, you must place down a textscreen reading "Building" onto the exterior. You may not have a KOS and Building sign at the same time.
 
 5. If people enter you base during building phase you must give them 5 seconds after warning them to leave before KOS.
 
@@ -74,7 +77,7 @@ Building & Basing Rules
 
 12. You must own all of the exterior doors to a building in order to build upon it.
 
-13. You may block off excess entrances to your base i.e. windows, backdoors.
+13. You may block off excess entrances to your base i.e. windows, backdoors. As long as you have one clearly defined enterance.
 
 14. You may not have more that 5 fading doors operated by keypads per base.
 
@@ -82,9 +85,9 @@ Building & Basing Rules
 
 16. You may not have a base designed to trap people.
 
-17. Maze bases are not allowed.
+17. Maze bases are not allowed. (bases with no clearly defined pathway).
 
-18. Blackout bases are not allowed.
+18. Blackout bases are not allowed. (bases where its completely black on all sides).
 
 19. No invisible buttons. and shoot door buttons must be a toggle.
 
@@ -92,7 +95,7 @@ Building & Basing Rules
 
 21. You must be active within a base which you own the doors for.
 
-20. No Killboxes.
+20. No Killboxes. -Bases in which you have large unfair advantage over the raider(s).
 
 21. You may not own multiple buildings unless your job allows for it.
 
@@ -140,6 +143,7 @@ Raiding Rules
 
 8. You may not raid hobo huts/structures.
 
+9. You may not carjack free cars!
 
 Mugging Rules
 
@@ -153,6 +157,10 @@ Mugging Rules
 4. You may not mug players who are AFK or have a building textscreen on their base.
 
 5. You must provide your victim with 10 seconds to drop the cash, you may chase after them if they disobey, and may shoot them when 10 seconds have passed.
+
+6.You may pull a gun if its in your hotbar if being mugged from the front
+
+7. if your being mugged you have to drop the money or as much as you can if you dont have a gun you cant say "just kill me" that is failrp
 
 Job Rules
 
@@ -179,19 +187,24 @@ Police - SWAT - SWAT Cheif - Police Cheif
 4. You may not randomly want or warrant.
 5. You may not Stun Stick Abuse (SSA).
 6. You may counter without adverting.
-7. Civil Protection may break NLR ONLY DURING PD RAIDS.
+7. Civil Protection may break NLR ONLY DURING PD RAIDS but must wait atleast 2 minuets before reentering.
 8. You may not unarrest without permission from Mayor or Warden. If there is no Mayor or Warden, you may unarrest, but you must have a reason.
 9. You may not arrest someone for having a gun out in their own base, or if they kill someone who broke their KOS rule.
-10. You may only warrant for printers if you SEE printers, you may not if you hear them or think that they have them.
+10. You may only warrant for printers if you SEE printers, you may also if you hear them but not if you think that they have them.
 11. You may not kill arrested players unless they are out of their jail cell without permission from the Mayor or the Warden.
 12. Police Warden may build, but only in the jail of the PD.
 13. Only the Mayor can create the KOS sign for the PD, if there is no mayor, then the Police Chief, if there is no Police Chief or Mayor, you may not have a KOS sign.
 14. You can not be corrupt.
+15. Terrorists are not KOS unless they advert terror
+
+Terrorists
+1. In order to kill Civil Protection you must advert terror then all cp in that area are kos
+2. You must wait 5 minuets between adverting terror.
 
 Gun Dealer, Black Market, Drug Dealer, Vape Dealer
 1. You must be available to sell at all times.
 2. You may not deny a customer.
-3. You may not self-supply, unless there is no one else available.
+3. You may not self-supply you can only buy 1 gun to defend yourself with.
 4. You may own printers as another means of income.
 5. You may not perform illegal activities, i.e. raids, mugging,
 6. You may not base with raiding classes.
@@ -211,23 +224,26 @@ Hobo
 12. You may not build on roofs.
 
 Mayor
-1. You may not perform illegal activities unless the laws specifically dictates so.
-2. You may only build inside the PD.
-3. If you call a lockdown, you must explain your reason for the lockdown via /broadcast"
-4. You may not create laws that clash with default laws.
-5. No KOS laws.
-6. No J-walking laws.
-7. No minge laws.
-8. Gun liscenses can cost up to $5,000.
-9. You may not make hitmen with "Hit Accepted" above their heads AOS.
-10. You may allow certain players permission to enter PD and spend time with you past 2nd door, but they may not enforce your KOS rules.
+1. You may only build inside the PD.
+2. If you call a lockdown, you must explain your reason for the lockdown via /broadcast"
+3. You may not create laws that clash with default laws.
+4. No J-walking laws.
+5. No minge laws.
+6. Gun liscenses can cost up to $15,000.
+7. You may not make hitmen with "Hit Accepted" above their heads AOS.
+8. You may allow certain players permission to enter PD and spend time with you past 2nd door, but they may not enforce your KOS rules.
 
 Raiding Classes - Thief - Pro Theif - Master Theif
 1. You may mug and raid.
 2. You may own a base and printers.
 3. You may counter illegal activities.
 
+Cinema Manager
+1. Only may keep people out of the cinema with a type of "bouncer" aka a hired merc. Thus they may not have locked doors or fading doors
+2. Remember no racist or pornographic or sexist videos in the cinema!
 
 Clans
 1. If you custom class is made to be a member of a clan there is a minimum one dollar fee to remove it from that clan
 2. Failure to follow clan rules can result in a ban as deemed fit by staff
+3. Your may protect your clan mates at all times but must still call assist in raids and such
+4. If a clan member is killed and you witnessed it and so did the killer they may kill you!
